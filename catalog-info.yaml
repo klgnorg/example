@@ -6,6 +6,7 @@ metadata:
   annotations:
     backstage.io/kubernetes-id: shop-backend
     backstage.io/kubernetes-namespace: default
+    github.com/project-slug: 'klgnorg/example'
 spec:
   type: service
   lifecycle: experimental
