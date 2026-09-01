@@ -2,7 +2,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: shop-backend
+  name: shop-backend-new
   annotations:
     backstage.io/kubernetes-id: shop-backend
     backstage.io/kubernetes-namespace: default
